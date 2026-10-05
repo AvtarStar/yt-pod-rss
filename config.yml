@@ -1,3 +1,3 @@
-Feed
--name: Nitish Rajput
-Channel_url: https://www.youtube.com/channel/UC6WzPg6yxF9dQx2_O6R4lww
+Feed:
+  - name: Nitish Rajput
+    Channel_url: https://www.youtube.com/channel/UC6WzPg6yxF9dQx2_O6R4lww
